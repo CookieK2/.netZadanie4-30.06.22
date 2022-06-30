@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GrupyProduktów>
+	<Grupa>
+		<Nazwa>Samochody Osobowe</Nazwa>
+		<Produkty>
+			<Produkt
+			id="1234"
+      >
+				<Nazwa>Skoda Octavia Ambition 2.0 TDI</Nazwa>
+				<Cena>110 000</Cena>
+				<RokProdukcji>2020</RokProdukcji>
+				<Paliwo>Diesel</Paliwo>
+				<Moc>115</Moc>
+				<PojemnośćSkokowa>1 968 cm3</PojemnośćSkokowa>
+
+			</Produkt>
+			<Produkt
+			id="1235"
+      >
+				<Nazwa>BMW Seria 3 320i GPF Sport Line</Nazwa>
+				<Cena>165 000</Cena>
+				<RokProdukcji>2019</RokProdukcji>
+				<Paliwo>Benzyna</Paliwo>
+				<Moc>184</Moc>
+				<PojemnośćSkokowa>1 998 cm3</PojemnośćSkokowa>
+			</Produkt>
+			<Produkt
+			  id="1236"
+      >
+				<Nazwa>Mercedes-Benz Klasa B 200 CDI</Nazwa>
+				<Cena>24 000</Cena>
+				<RokProdukcji>2009</RokProdukcji>
+				<Paliwo>Diesel</Paliwo>
+				<Moc>140</Moc>
+				<PojemnośćSkokowa>1 991 cm3</PojemnośćSkokowa>
+			</Produkt>
+			<Produkt
+			  id="1237"
+      >
+				<Nazwa>Mercedes-Benz Klasa C 200</Nazwa>
+				<Cena>67 500</Cena>
+				<RokProdukcji>2015</RokProdukcji>
+				<Paliwo>Diesel</Paliwo>
+				<Moc>136</Moc>
+				<PojemnośćSkokowa>1 598 cm3</PojemnośćSkokowa>
+			</Produkt>
+		</Produkty>
+	</Grupa>
+	<Grupa>
+		<Nazwa>Motory</Nazwa>
+		<Produkty>
+			<Produkt
+			id="1238"
+      >
+				<Nazwa>Honda CRF</Nazwa>
+				<Cena>74 900</Cena>
+				<RokProdukcji>2020</RokProdukcji>
+				<Paliwo>Benzyna</Paliwo>
+				<Moc>102</Moc>
+				<PojemnośćSkokowa>1 084 cm3</PojemnośćSkokowa>
+			</Produkt>
+			<Produkt
+		  id="1239"
+      >
+				<Nazwa>Harley-Davidson Road King </Nazwa>
+				<Cena>66 000</Cena>
+				<RokProdukcji>2017</RokProdukcji>
+				<Paliwo>Benzyna</Paliwo>
+				<Moc>107</Moc>
+				<PojemnośćSkokowa>1 750 cm3</PojemnośćSkokowa>
+			</Produkt>
+			<Produkt
+		  id="1240"
+      >
+				<Nazwa>BMW R</Nazwa>
+				<Cena>121 500</Cena>
+				<RokProdukcji>2022</RokProdukcji>
+				<Paliwo>Benzyna</Paliwo>
+				<Moc>136</Moc>
+				<PojemnośćSkokowa>1 254 cm3</PojemnośćSkokowa>
+			</Produkt>
+		</Produkty>
+	</Grupa>
+	<Grupa>
+		<Nazwa>Samochody ciężarowe</Nazwa>
+		<Produkty>
+			<Produkt
+			id="1241"
+      >
+				<Nazwa>Volvo FM 330 </Nazwa>
+				<Cena>139 000</Cena>
+				<RokProdukcji>2011</RokProdukcji>
+				<Paliwo>Diesel</Paliwo>
+				<Moc>330</Moc>
+				<PojemnośćSkokowa>10 837 cm3</PojemnośćSkokowa>
+			</Produkt>
+			<Produkt
+			id="1242"
+      >
+				<Nazwa>Scania R420 HPI </Nazwa>
+				<Cena>90 000</Cena>
+				<RokProdukcji>2012</RokProdukcji>
+				<Paliwo>Diesel</Paliwo>
+				<Moc>420</Moc>
+				<PojemnośćSkokowa>11 705 cm3</PojemnośćSkokowa>
+			</Produkt>
+			<Produkt
+			id="1243"
+      >
+				<Nazwa>Mercedes-Benz actros-2541 </Nazwa>
+				<Cena>125 000</Cena>
+				<RokProdukcji>2010</RokProdukcji>
+				<Paliwo>Diesel</Paliwo>
+				<Moc>408</Moc>
+				<PojemnośćSkokowa>11 946 cm3</PojemnośćSkokowa>
+			</Produkt>
+		</Produkty>
+	</Grupa>
+</GrupyProduktów>
